@@ -1,0 +1,5 @@
+---
+applications:
+- name: skully-home
+  buildpack: java_buildpack
+  path: build/distributions/skully-home.zip
